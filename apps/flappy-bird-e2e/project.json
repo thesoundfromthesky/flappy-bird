@@ -1,0 +1,10 @@
+{
+  "name": "flappy-bird-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/flappy-bird-e2e/src",
+  "projectType": "application",
+  "tags": [],
+  "implicitDependencies": ["flappy-bird"],
+  "// targets": "to see all targets run: nx show project flappy-bird-e2e --web",
+  "targets": {}
+}

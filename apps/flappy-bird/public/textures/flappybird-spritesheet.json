@@ -1,0 +1,60 @@
+{"frames": {
+
+"background-day.png":
+{
+	"frame": {"x":52,"y":112,"w":288,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":288,"h":512},
+	"sourceSize": {"w":288,"h":512}
+},
+"base.png":
+{
+	"frame": {"x":102,"y":0,"w":336,"h":112},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":336,"h":112},
+	"sourceSize": {"w":336,"h":112}
+},
+"pipe-green.png":
+{
+	"frame": {"x":0,"y":112,"w":52,"h":320},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":52,"h":320},
+	"sourceSize": {"w":52,"h":320}
+},
+"yellowbird-downflap.png":
+{
+	"frame": {"x":0,"y":0,"w":34,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":24},
+	"sourceSize": {"w":34,"h":24}
+},
+"yellowbird-midflap.png":
+{
+	"frame": {"x":34,"y":0,"w":34,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":24},
+	"sourceSize": {"w":34,"h":24}
+},
+"yellowbird-upflap.png":
+{
+	"frame": {"x":68,"y":0,"w":34,"h":24},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":24},
+	"sourceSize": {"w":34,"h":24}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "sprite-map.png",
+	"format": "RGBA8888",
+	"size": {"w":438,"h":624},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:f4ac43d85b82ce8a546e62933d31d6a1:80d499591328a0184924c8c817493b19:1aa048c45e18783a36302d5cd42979d8$"
+}
+}
